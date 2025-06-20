@@ -1,67 +1,30 @@
-# STILLROOT // Ghost Drop 001
+# Stillroot Ghost Drops
 
-**Stillness in the Noise**  
-*A mental survival guide for the quietly awake*
+Welcome to **Stillroot Ghost Drops** — a quiet collection of minimalist mental survival guides for those who are quietly waking up in a world that feels noisy and overwhelming.
 
----
+## What are Ghost Drops?
 
-### 1. The Crack
+Ghost Drops are brief, distilled signals meant to help you find **stillness, clarity, and rootedness** amid chaos.  
+They are not loud calls to action or grand manifestos, but subtle nudges — tools for reflection and self-observation.
 
-What you're feeling is normal.  
-Anxious about the future.  
-Something is not working anymore.  
-What's going on?  
-It's recognition.
+## Why Stillroot?
 
-Accept that feeling.  
-Let it stew.  
-Don't be afraid.
+*Stillroot* represents the inner calm, the quiet strength of a deeply grounded root system holding firm beneath the surface, no matter the storm.  
+This collection is built to honor that resilience.
 
----
+## How to Use This Repo
 
-### 2. What You Must Remember
+- Each Ghost Drop is a standalone guide, numbered and dated.  
+- Read them slowly and privately.  
+- Use them as prompts to reflect and observe your own mental landscape.  
+- Share thoughtfully with those who seek quiet clarity.
 
-You are not alone.  
-You are alive.  
-You are thinking.  
-You are breathing.  
-You are human.
+## Contributing
 
----
+At this stage, Ghost Drops are crafted intentionally by Stillroot alone.  
+If you resonate and want to support or share feedback, reach out respectfully.
 
-### 3. Mental Tools to Anchor You
+## License
 
-**Tool 1: Who are you?**  
-"You were taught to be what you are.  
-But have you ever asked yourself?"
-
-**Tool 2: What do I want?**  
-"Amidst the confusion, is this truly?"
-
-**Tool 3: Slow is not wrong**  
-"What's the hurry?"
-
-**Tool 4: Clarity**  
-"Use it as a compass."
-
----
-
-### 4. What To Do Now
-
-- Write down what you notice — privately.  
-- Listen to your heart, listen to that voice. Keep listening.  
-- Take honest accountability.  
-- Practice silent observation of yourself. Feel the emergence.
-
----
-
-### 5. What Not To Do
-
-- Don't look for shortcuts.  
-- Don't turn away from yourself.  
-- Don't chase other people's truth.  
-- Don't rush.
-
-Be still, like a root.
-
-— **Stillroot**
+Creative Commons BY-NC-SA (Attribution-NonCommercial-ShareAlike)  
+*Feel free to share and adapt for personal use.*
